@@ -49,7 +49,7 @@ class Login extends Component {
         this.props = props;
         const { classes } = props;
         this.state = {
-            email: "demo@testing.com",
+            email: "demo@avantation.in",
             password: "EC84D5D857ABE",
             classes
         }
