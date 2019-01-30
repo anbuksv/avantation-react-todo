@@ -1,1 +1,1 @@
-export const HOST_URL = 'https://demo.avantation.in/v1/';
+export const HOST_URL = 'https://demo.avantation.in/api/v1/';
